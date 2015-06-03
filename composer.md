@@ -8,7 +8,7 @@ slug: composer
 
 ## What is it?
 
-Composer is the de facto standard for dependency management in PHP these days. Using Composer, you can install and
+Composer is the de facto standard for dependency management in PHP these days. Using [Composer](https://getcomposer.org/), you can install and
 upgrade both open source and your own private components.
 
 ## How to support
