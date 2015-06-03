@@ -1,0 +1,18 @@
+New projects should adhere to the following template:
+
+~~~
+---
+title: <Project name>
+slug: <sluggified project name>
+
+---
+
+# <Project name>
+
+## What is it?
+
+<short project description>
+
+## How to support
+
+<description on how to support the project. please include links here to donation pages etc>
