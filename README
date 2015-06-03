@@ -1,19 +1,17 @@
 New projects should adhere to the following template:
 
-~~~
----
-title: <Project name>
-slug: <sluggified project name>
+    ---
+    title: <Project name>
+    slug: <sluggified project name>
 
----
+    ---
 
-# <Project name>
+    # <Project name>
 
-## What is it?
+    ## What is it?
 
-<short project description>
+    <short project description>
 
-## How to support
+    ## How to support
 
-<description on how to support the project. please include links here to donation pages etc>
-~~~
+    <description on how to support the project. please include links here to donation pages etc>
