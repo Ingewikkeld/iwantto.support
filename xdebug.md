@@ -13,8 +13,7 @@ maintained and offers a wide variety of features for debugging, profiling and ov
 
 ## How to support
 
-As you can see on the (http://xdebug.org/donate.php)[Donation page] there are several ways to support Derick for his
-work. There is (http://flattr.com/thing/565889/Xdebugs-website)[Flattr], Derick's 
-(http://www.amazon.co.uk/registry/wishlist/SLCB276UZU8B)[Amazon wishlist] or you could buy Derick 
-(https://www.amazon.co.uk/gp/product/B006AUF6X0/gcrnsts)[An Amazon gift certificate].
-
+As you can see on the [Donation page](http://xdebug.org/donate.php) there are several ways to support Derick for his
+work. There is [Flattr](http://flattr.com/thing/565889/Xdebugs-website), Derick's 
+[Amazon wishlist](http://www.amazon.co.uk/registry/wishlist/SLCB276UZU8B) or you could buy Derick 
+[An Amazon gift certificate](https://www.amazon.co.uk/gp/product/B006AUF6X0/gcrnsts).
