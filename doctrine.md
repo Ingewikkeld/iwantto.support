@@ -8,7 +8,7 @@ slug: doctrine
 
 ## What is it?
 
-Doctrine is a project with several subprojects. Their most important offering is their ORM and ODM, but there's a seperate
+Doctrine is a project with several subprojects. Their most important offering is their ORM and ODM, but there's a separate
 database abstraction layer and quite a few other projects on their [Github page](https://github.com/doctrine). 
 
 ## How to support
