@@ -8,7 +8,7 @@ slug: phpmyadmin
 
 ## What is it?
 
-It seems like PHPMyAdmin has existed every since PHP started, it is most probably one of the longest running open source projects in the history of PHP. PHPMyAdmin is a web-based management GUI for managing MySQL databases. 
+It seems like PHPMyAdmin has existed ever since PHP started. It is most probably one of the longest running open source projects in the history of PHP. PHPMyAdmin is a web-based management GUI for managing MySQL databases. 
 
 ## How to support
 
