@@ -1,0 +1,17 @@
+---
+title: 3v4l.org
+slug: 3v4l
+
+---
+
+# 3v4l.org
+
+## What is it?
+
+3v4l.org has turned in a short time into the most used website for trying and sharing PHP code snippets. One of the major 
+features is these snippets will run on not one, but 150(!)PHP versions so you can easily test (regression) bugs. Besides this, 
+it has all kind of nifty features like displaying VLD opcode and performance timings.
+
+## How to support
+
+To keep this site running it will need about ~100 mBTC monthly. You can donate through [Gratipay](https://gratipay.com/3v4l.org/) or [Bitcoin](bitcoin://3DJhjy98RiQRc7751B4PPugMkG3BGVogrX?amount=0.01&label=3v4l.org).
