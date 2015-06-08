@@ -15,12 +15,4 @@ More information on the [website](http://dashboardhub.io)
 
 ## How to support
 
-Supporting the project can be any of the following:
-
-* Star / Favourite on Github
-* Follow on Twitter and Tweet accordingly
-* Using the DashboardHub PipelineDashboard and giving feedback / ideas / suggestions etc
-
-Join the chat on [Gitter](https://gitter.im/DashboardHub)
-
-![Screenshot](https://github.com/DashboardHub/Website/blob/gh-pages/images/screenshots/dashboard.png)
+We wish to continually improve the service, please support by donating via paypal in the footer of the website [DashboardHub Website](http://dashboardhub.io)
