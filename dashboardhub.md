@@ -9,7 +9,7 @@ slug: dashboardhub
 
 The initial aim of **DashboardHub** is to give *transparancy* and *visibility* to the Development Pipeline. 
 
-There are serveral sub projects which are microservices for the **DashboardHub** service architecture, from creating a Dashboard to Beaconing YSlow Data.
+There are several sub projects which are microservices for the **DashboardHub** service architecture, from creating a Dashboard to Beaconing YSlow Data.
 
 More information on the [website](http://dashboardhub.io)
 
