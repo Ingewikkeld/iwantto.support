@@ -35,4 +35,4 @@ As much as we wish it was not true, women are a minority in the majority of tech
 In the long run, we hope there will be a day where there are enough women in the tech industry that this group is no longer a need.
 
 ## How to support
-You can send a donation directly to our paypal account hello@phpwomen.org, buy an elePHPant from our <a href="shop.phpwomen.org">store</a> or join us in our irc channel #PHPWomen on irc.freenode.net. We are always looking for volunteers to do things like helping with our website, bring awareness and staff conference booths.
+You can send a donation directly to our paypal account hello@phpwomen.org, buy an elePHPant from our <a href="http://shop.phpwomen.org">store</a> or join us in our irc channel #PHPWomen on irc.freenode.net. We are always looking for volunteers to do things like helping with our website, bring awareness and staff conference booths.
