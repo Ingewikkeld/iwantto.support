@@ -12,4 +12,4 @@ iTerm2 is a replacement for Terminal and the successor to iTerm. It supports spl
 
 ## How to support
 
-[Donate here](https://www.iterm2.com/)
+[Donate here](http://iterm2.com/donate.html)
