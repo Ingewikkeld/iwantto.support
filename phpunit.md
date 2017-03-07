@@ -12,4 +12,4 @@ If you do anything with testing or QA in PHP, you will be using PHPUnit. It is t
 
 ## How to support
 
-Lead developer Sebastian Bergmann has an [Amazon wishlist](http://www.amazon.de/gp/registry/wishlist/2LR2IGM9BZ11V) off which you could purchase a gift for him.
+Lead developer Sebastian Bergmann has an [Amazon wishlist](http://www.amazon.de/gp/registry/wishlist/2LR2IGM9BZ11V) off which you could purchase a gift for him. Sebastian also has a [Patreon](https://www.patreon.com/s_bergmann) where you can support him.
