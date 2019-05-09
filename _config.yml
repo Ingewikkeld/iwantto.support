@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
-permalink: /:slug/
+permalink: :slug/
 title: I Want To Support
 github: [metadata]

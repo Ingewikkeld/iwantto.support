@@ -9,6 +9,6 @@ So you want to support open source projects by donating money, but you don't kno
 
 {% for page in site.html_pages %}
   {% unless page.exclude %}
-[ {{ page.title }} ]( {{ page.url }} )
+[ {{ page.title }} ]( {{ page.url | relative_url }} )
   {% endunless %}
 {% endfor %}
