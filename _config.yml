@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-baseurl: https://cinnte.github.io/iwantto.support/
-permalink: :slug/
+baseurl: iwantto.support
+permalink: /:slug/
 title: I Want To Support
 github: [metadata]
